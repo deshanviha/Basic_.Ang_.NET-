@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F/MD5QoDUdhKZXsssuCrQn3ahuGsQJlWThIsOkQIRs8=",
+  "Source": "webapiFullstack",
+  "BasePath": "_content/webapiFullstack",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
